@@ -1,4 +1,4 @@
-# QSC_QJSCC
+# Quad-DeepSC
 
 # welcome to our new work !
 

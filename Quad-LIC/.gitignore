@@ -1,0 +1,13 @@
+.venv/
+build/
+*.egg-info/
+__pycache__/
+.pytest_cache/
+*.so
+*.pyd
+*.pyc
+*.pth
+*.pt
+*.pth.tar
+results/
+checkpoints/*.tar

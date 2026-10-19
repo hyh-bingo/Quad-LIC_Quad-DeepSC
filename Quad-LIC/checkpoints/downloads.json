@@ -1,0 +1,50 @@
+{
+  "format_version": 2,
+  "files": [
+    {
+      "file": "QSC_0006_psnr.pt",
+      "bytes": 124685495,
+      "url": "https://drive.google.com/file/d/1QS588WCwgHDCNEITcFszzD5rpX50M79B/view?usp=drivesdk"
+    },
+    {
+      "file": "QSC_0013_psnr.pt",
+      "bytes": 124685495,
+      "url": "https://drive.google.com/file/d/1etwVAjhqOKVPz3Glg72E6tiS1i5luQ7K/view?usp=drivesdk"
+    },
+    {
+      "file": "QSC_0035_psnr.pt",
+      "bytes": 124685495,
+      "url": "https://drive.google.com/file/d/1QubTjaXp7IDdJ07e8sTPIrJp5aeaiSvm/view?usp=drivesdk"
+    },
+    {
+      "file": "QSC_0080_psnr.pt",
+      "bytes": 124685495,
+      "url": "https://drive.google.com/file/d/1diZuW46hW9YPMCk8apC_xC7KIz34TEl-/view?usp=drivesdk"
+    },
+    {
+      "file": "QSC_0150_psnr.pt",
+      "bytes": 124685495,
+      "url": "https://drive.google.com/file/d/1nqrd0zdBp0PIXJ8bllYrVbEyAd_JXXxs/view?usp=drivesdk"
+    },
+    {
+      "file": "QSC_0013_ssim.pt",
+      "bytes": 124685495,
+      "url": "https://drive.google.com/file/d/1s2oLnGKbwcYiSuSEwxJaPVT3o9tG8Rz1/view?usp=drivesdk"
+    },
+    {
+      "file": "QSC_0035_ssim.pt",
+      "bytes": 124685495,
+      "url": "https://drive.google.com/file/d/1n25f3YBwMWNpgBwd0eUnqtwDGjUbeqdF/view?usp=drivesdk"
+    },
+    {
+      "file": "QSC_0080_ssim.pt",
+      "bytes": 124685495,
+      "url": "https://drive.google.com/file/d/1GkNlxazj4A6ZihdkLo_gk_KrD2O016fd/view?usp=drivesdk"
+    },
+    {
+      "file": "QSC_0150_ssim.pt",
+      "bytes": 124685495,
+      "url": "https://drive.google.com/file/d/1Xj4LpZNiG7WkoMuchR4a3R1V2j6MhZor/view?usp=drivesdk"
+    }
+  ]
+}

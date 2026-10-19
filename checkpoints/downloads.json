@@ -1,0 +1,90 @@
+{
+  "format_version": 2,
+  "files": [
+    {
+      "file": "QJSCC_awgn_10dB_0040_psnr.pt",
+      "bytes": 187956690,
+      "url": "https://drive.google.com/file/d/1-vJAmo4DS_wkQjIZ8ugv584gIMb9C0es/view?usp=drivesdk"
+    },
+    {
+      "file": "QJSCC_awgn_10dB_0120_psnr.pt",
+      "bytes": 204494674,
+      "url": "https://drive.google.com/file/d/10qtkaKNDebBf5aDd5BuF5q4zNiWVbW4w/view?usp=drivesdk"
+    },
+    {
+      "file": "QJSCC_awgn_10dB_0240_psnr.pt",
+      "bytes": 204494674,
+      "url": "https://drive.google.com/file/d/1r6gIDslaMISJvjsZ9spPdJO4aLeWA2mx/view?usp=drivesdk"
+    },
+    {
+      "file": "QJSCC_awgn_10dB_0450_psnr.pt",
+      "bytes": 204494674,
+      "url": "https://drive.google.com/file/d/1wUNIbrkNTlP3ONpZBLxVLMonOPF3VKyS/view?usp=drivesdk"
+    },
+    {
+      "file": "QJSCC_awgn_10dB_0050_ssim.pt",
+      "bytes": 187956690,
+      "url": "https://drive.google.com/file/d/1GDJAXmkgUQvs9wt2Oknb-WK3wFzdQT6Q/view?usp=drivesdk"
+    },
+    {
+      "file": "QJSCC_awgn_10dB_0240_ssim.pt",
+      "bytes": 187956690,
+      "url": "https://drive.google.com/file/d/1mtK2Y-hcDg-oWTzvqFof_CBJIGBYS5os/view?usp=drivesdk"
+    },
+    {
+      "file": "QJSCC_awgn_10dB_0800_ssim.pt",
+      "bytes": 204494674,
+      "url": "https://drive.google.com/file/d/1OscLRVswzkfx9x13nhb5ltglLb6HnMe7/view?usp=drivesdk"
+    },
+    {
+      "file": "QJSCC_awgn_10dB_2000_ssim.pt",
+      "bytes": 204494674,
+      "url": "https://drive.google.com/file/d/1hhmDby3abVciwhC-8BJhkIu87TAPrAtU/view?usp=drivesdk"
+    },
+    {
+      "file": "QJSCC_awgn_6dB_0010_lpips.pt",
+      "bytes": 187956690,
+      "url": "https://drive.google.com/file/d/1TuOP9EVNySLZ9GKPMd7ZheUPX9O9wkqr/view?usp=drivesdk"
+    },
+    {
+      "file": "QJSCC_awgn_6dB_0040_lpips.pt",
+      "bytes": 187956690,
+      "url": "https://drive.google.com/file/d/1TycU9-_iYPl1v5ZXcMpTpx7hmzUQa9wi/view?usp=drivesdk"
+    },
+    {
+      "file": "QJSCC_awgn_6dB_0120_lpips.pt",
+      "bytes": 204494674,
+      "url": "https://drive.google.com/file/d/1q920EGx5vfgGopBNgNjOjeu1e8ztCijh/view?usp=drivesdk"
+    },
+    {
+      "file": "QJSCC_awgn_6dB_0240_lpips.pt",
+      "bytes": 204494674,
+      "url": "https://drive.google.com/file/d/15hVwvY4r0ndD3HVKdZAQRZqgD0c1xzsk/view?usp=drivesdk"
+    },
+    {
+      "file": "QJSCC_awgn_10dB_0005_lpips.pt",
+      "bytes": 191265783,
+      "url": "https://drive.google.com/file/d/1qvyrxtQs6e8BHUQqGikSG2QiyhRYBaA1/view?usp=drivesdk"
+    },
+    {
+      "file": "QJSCC_awgn_10dB_0010_lpips.pt",
+      "bytes": 187958135,
+      "url": "https://drive.google.com/file/d/1lv7gRtfQMBMV_ozheElb4UVwXr9mdzhs/view?usp=drivesdk"
+    },
+    {
+      "file": "QJSCC_awgn_10dB_0040_lpips.pt",
+      "bytes": 187958135,
+      "url": "https://drive.google.com/file/d/16f-Len4Be0UkhhQnZg8f3sOQmJnZ3M4t/view?usp=drivesdk"
+    },
+    {
+      "file": "QJSCC_awgn_10dB_0120_lpips.pt",
+      "bytes": 204496119,
+      "url": "https://drive.google.com/file/d/1beNo8DA9AyLTq5NPPp9R506YTdobLx2-/view?usp=drivesdk"
+    },
+    {
+      "file": "QJSCC_awgn_10dB_0240_lpips.pt",
+      "bytes": 204496119,
+      "url": "https://drive.google.com/file/d/1VxaPOuqROG2iYrbDRWhVU30ueCtqTQM2/view?usp=drivesdk"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "format": "tensor-only PyTorch state_dict",
+  "checkpoints": [
+    {
+      "file": "QSC_0006_psnr.pt",
+      "metric": "PSNR",
+      "rate_point": "0006",
+      "bytes": 124685495
+    },
+    {
+      "file": "QSC_0013_psnr.pt",
+      "metric": "PSNR",
+      "rate_point": "0013",
+      "bytes": 124685495
+    },
+    {
+      "file": "QSC_0035_psnr.pt",
+      "metric": "PSNR",
+      "rate_point": "0035",
+      "bytes": 124685495
+    },
+    {
+      "file": "QSC_0080_psnr.pt",
+      "metric": "PSNR",
+      "rate_point": "0080",
+      "bytes": 124685495
+    },
+    {
+      "file": "QSC_0150_psnr.pt",
+      "metric": "PSNR",
+      "rate_point": "0150",
+      "bytes": 124685495
+    },
+    {
+      "file": "QSC_0013_ssim.pt",
+      "metric": "MS-SSIM",
+      "rate_point": "0013",
+      "bytes": 124685495
+    },
+    {
+      "file": "QSC_0035_ssim.pt",
+      "metric": "MS-SSIM",
+      "rate_point": "0035",
+      "bytes": 124685495
+    },
+    {
+      "file": "QSC_0080_ssim.pt",
+      "metric": "MS-SSIM",
+      "rate_point": "0080",
+      "bytes": 124685495
+    },
+    {
+      "file": "QSC_0150_ssim.pt",
+      "metric": "MS-SSIM",
+      "rate_point": "0150",
+      "bytes": 124685495
+    }
+  ],
+  "download_index": "downloads.json"
+}

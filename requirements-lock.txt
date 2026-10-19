@@ -1,0 +1,13 @@
+torch==2.7.1
+torchvision==0.22.1
+numpy==2.3.3
+scipy==1.16.3
+Pillow==11.3.0
+pypng==0.20220715.0
+pytorch-msssim==1.0.0
+lpips==0.1.4
+pybind11==3.0.1
+ninja==1.13.2
+setuptools==80.9.0
+pytest==9.1.1
+gdown==5.2.0

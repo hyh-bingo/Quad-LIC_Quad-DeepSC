@@ -1,0 +1,5 @@
+recursive-include csrc *.cpp *.cu
+recursive-include scripts *.py *.sh
+recursive-include tests *.py
+include README.md
+include LICENSE

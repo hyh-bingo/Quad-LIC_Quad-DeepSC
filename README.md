@@ -13,7 +13,7 @@
 
 ## Overview
 
-This repository provides the inference implementation of **Quad-DeepSC and Quad-LIC from the same work**. Quad-LIC is the learned image codec used to establish the source coding components of Quad-DeepSC. Quad-DeepSC builds on these components with quadtree-guided feature coding and rate adaptation for image transmission over wireless channels.
+This repository is the **official implementation** of **[Image Semantic Communication with Quadtree Partition-based Coding](https://arxiv.org/abs/2512.05395)**, including **Quad-DeepSC and Quad-LIC**. Quad-LIC is the learned image codec used to establish the source coding components of Quad-DeepSC. Quad-DeepSC builds on these components with quadtree-guided feature coding and rate adaptation for image transmission over wireless channels.
 
 The shared design uses four-step spatial–channel context modeling to estimate latent entropy. Lightweight image transforms support source compression, while attention-based feature coding maps the latents to channel symbols for semantic communication.
 
